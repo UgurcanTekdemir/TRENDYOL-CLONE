@@ -1,4 +1,4 @@
-# Trendyol_Clone
+
 <h1> Trendyol Clone </h1>
 
 Basit bir Trendyol  örneği.
